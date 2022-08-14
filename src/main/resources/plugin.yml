@@ -1,0 +1,8 @@
+name: PlotGuard
+version: '${project.version}'
+main: me.hgsoft.minecraft.plotguard.plotguard.PlotGuard
+api-version: 1.19
+prefix: [ PlotGuard ]
+authors: [ Hugo1307 ]
+description: Anti-Griefing plugin to protect players plots in your server.
+website: plotguard.hgsoft.me
